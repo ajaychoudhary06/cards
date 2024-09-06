@@ -1,0 +1,30 @@
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+    background-color: #212529 !important;
+}
+
+a.navbar-brand {
+    color: white;
+}
+
+a.navbar-brand:hover {
+    color: rgb(255, 0, 0);
+}
+
+li.nav-item a.nav-link.active {
+    color: white !important;
+
+
+}
+
+li.nav-item a.nav-link {
+    color: rgb(125, 125, 125) !important;
+
+
+}
+
+button.navbar-toggler.collapsed {
+    background-color: white;
+}
+button.navbar-toggler {
+    background-color: white;
+}
